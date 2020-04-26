@@ -1,20 +1,20 @@
 # FYP
 Final Year Project
-Iot base real time Safty Precausion system
+Iot based Real Time Safety Precausion System
 
 ## Areas
 **It consists of 5 major parts**
-1. Fuzzification 1 
-1. IOT compatabile node 2
+1. Fuzzification and Defuzzification 1 
+1. IoT node 2
 1. Web Application 3
-1. Camera crossing 4
+1. Camera cross checking  4
 1. Mobile App 5
 
 
 ## Colleborate 
- @khizar Hayyat
+ @Khizar Hayyat
  @Hamza Sohail
- @ Saariya Faiz
- @ Umer Abdullah
+ @Saariya Faiz
+ @Umer Abdullah
  
  
